@@ -27,3 +27,36 @@ cursor: pointer;
 .qq:hover{
     color: tomato;
 }
+.ee{
+background-color: red;
+color: white;
+padding: 9px;
+margin: 10px;
+border: 20px;
+}
+
+.banner-img{
+    width: 400px;
+}
+.banner-container{
+display: flex;
+
+align-items: center;
+height: 90vh;
+border: 2px solid brown;
+justify-content: space-around;
+color: azure;
+background-image: url("OIP\ \(1\).jpg"),linear-gradient(45deg,rgb(8, 8, 8),rgb(53, 48, 48));
+}
+.t{
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.h{
+padding: 7px;
+margin: 3px;
+color: azure;
+background-color: tomato;
+border:2px yellow solid;
+}
