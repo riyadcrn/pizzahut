@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.manu-container{
+padding: 19px;
+background-color: rgb(34, 31, 31);
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.logo-photo{
+width: 300px;
+}
+.manu{color: azure;
+display: flex;
+
+}
+.qq{margin: 20px;
+    padding: 5px;
+font-size: 20px;
+cursor: pointer;
+
+}
+.qq:hover{
+    color: tomato;
+}
