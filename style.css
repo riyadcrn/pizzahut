@@ -89,16 +89,16 @@ background-color: brown;
 color: azure;
 cursor: pointer;
 }
-.z:hover{color: rgb(107, 96, 117);}
+.z:hover{color:aqua;}
 .first{
-height: 230px;
+height: 150px;
 width: 300px;
 box-shadow: 20px 20px 22px rgb(46, 24, 24);
 padding: 20px;
-height: 50vh;
+height: 80vh;
 background-color: black;
 color: azure;
-margin: 10px 10px;
+margin: 20px 20px;
 text-align: center;
 
 }
@@ -110,7 +110,8 @@ margin: 10px;
 .mn{display: flex;
     justify-content: space-around;
     border:  1px solid  brown;
-    background-color: aqua;
+    background-color: aqua;  
+    
 }
 
 .butt{
@@ -140,5 +141,61 @@ color: azure;
 padding: 36px;
 margin: 25px;
 text-align: center;
+}
+.last{
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: black;
+color: azure;
+padding: 30px;
+height: 40vh;
 
 }
+.ttt{ display: flex;
+justify-content: space-around;
+align-items: center;background-color: black;
+color: azure;
+padding: 10px;
+
+}
+.nun>a {
+   padding: 15px;
+   margin: 10px;
+   text-decoration: none;
+   background-color: azure;
+   border-radius: 50%;
+  }
+.fa-facebook{color:#3B5998;
+background-color: azure;
+}
+.fa-google {
+    background:  white;
+    color:#1c9c22;
+  }
+  .fa-instagram{
+    background-color: greenyellow;
+    color: red;
+  }
+  .fa-youtube {
+    background: white;
+    color: rgb(219, 13, 13);
+  }
+  .nun a i{font-size: 1em;}
+  .asd{
+padding: 8px;
+margin: 3px;
+border-radius: 10%;
+background-color: tomato;
+  }
+  .lll{
+padding: 40px;
+justify-content: center;
+text-align: center;
+height: 5vh;
+background-color: black;
+color: azure;
+font-size: small;
+  }
+  
