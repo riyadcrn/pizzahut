@@ -48,10 +48,10 @@ justify-content: space-around;
 color: azure;
 background-image: url("OIP\ \(1\).jpg"),linear-gradient(45deg,rgb(8, 8, 8),rgb(53, 48, 48));
 }
-.t{
-    font-weight: bold;
-    margin-top: 15px;
+
+.t{  margin-top: 15px;
     margin-bottom: 15px;
+    
 }
 .h{
 padding: 7px;
@@ -59,7 +59,9 @@ margin: 3px;
 color: azure;
 background-color: tomato;
 border:2px yellow solid;
+
 }
+
 .img{
     width: 400px;
 }
@@ -69,11 +71,14 @@ border:2px yellow solid;
     align-items: center;
     border: 1px solid rgb(153, 54, 62);
     height: 70vh;
+    background-color: burlywood;
 }
 .bo{
 text-align: center;
 margin: 20px;
 padding: 15px;
+font-size: 30px;
+
 
 }
 .z{  
@@ -84,4 +89,56 @@ background-color: brown;
 color: azure;
 cursor: pointer;
 }
+.z:hover{color: rgb(107, 96, 117);}
+.first{
+height: 230px;
+width: 300px;
+box-shadow: 20px 20px 22px rgb(46, 24, 24);
+padding: 20px;
+height: 50vh;
+background-color: black;
+color: azure;
+margin: 10px 10px;
+text-align: center;
 
+}
+.pg{
+width: 90px; 
+margin: 10px;
+
+}
+.mn{display: flex;
+    justify-content: space-around;
+    border:  1px solid  brown;
+    background-color: aqua;
+}
+
+.butt{
+background-color: brown;
+padding: 5px;
+margin: 6px;
+border: 2px solid black;
+cursor: pointer;
+}
+.butt:hover{
+    color: aqua;
+}
+.aa{padding: 10px;}
+.ab{padding: 10px;}
+
+.nn{
+
+text-align: center;
+margin: 20px;
+padding: 15px;
+font-size: 30px;
+}
+.a{background-color: black;
+height: 200px;
+width: 500px;
+color: azure;
+padding: 36px;
+margin: 25px;
+text-align: center;
+
+}
